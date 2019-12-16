@@ -1,0 +1,30 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "Classic1", 
+    "name": "Classic1", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "Charles Tatum II", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "Classic1", 
+    "shortName": "Classic1", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "3e515fc7-1da0-47b2-ac29-116283f7e7f5"
+}
