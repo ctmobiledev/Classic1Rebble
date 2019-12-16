@@ -13,3 +13,5 @@ Bottom line: MM/DD/YY
 
 This project may be used as a basis for creating other Rebble/Pebble watchface designs. The main source file includes explanatory notes
 on the meaning of various symbols, as well as other helpful information.
+
+The name of the watchface, as it appears on a Pebble timepiece, is "Classic1".
